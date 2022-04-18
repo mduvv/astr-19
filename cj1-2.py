@@ -7,7 +7,7 @@ resulting answer.
 
 '''
 
-import numpy as np		# import numpy librabry
+import numpy as np		#import numpy librabry
 
 # function to print out sum and data type
 def sum(x, y):
