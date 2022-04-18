@@ -1,6 +1,6 @@
-# Write a Python program to print out your full name, 
-# your preferred pronouns (optional), and two sentences
-# about your favorite movie and your favorite food
+#Write a Python program to print out your full name, 
+#your preferred pronouns (optional), and two sentences
+#about your favorite movie and your favorite food
 
 
 # This function prints out full name
