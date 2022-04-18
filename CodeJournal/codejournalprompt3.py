@@ -7,7 +7,7 @@ and prints “YAY!”.
 
 '''
 
-import numpy as mp		# import numpy librabry
+import numpy as np		# import numpy librabry
 
 # function f(x) that returns x**3 + 8
 def f(x):
