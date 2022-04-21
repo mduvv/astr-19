@@ -10,8 +10,7 @@ import numpy as np
 def main():
     print("sin(x) vs x")
     print("-"*50)
-    x = 2
-    z = np.linspace(0.0, 2.0*np.pi, num=10, dtype=float) # array from 0.0 to 2.0 with a 1000 entries
+    z = np.linspace(0.0, 2.0*np.pi, num=1000, dtype=float) # array from 0.0 to 2.0 with a 1000 entries
     for item in z:
         print(f"{np.sin(item):>} {item:>} ") # left align
 
